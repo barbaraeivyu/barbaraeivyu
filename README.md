@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm barbaraeivyu 🔒
 
-<!--
-**barbaraeivyu/barbaraeivyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Security Banner](https://img.shields.io/badge/Security%20Researcher-Hacker%20Ethic-red?style=for-the-badge&logo=shield)
 
-Here are some ideas to get you started:
+I'm a passionate **security researcher** and **ethical hacker** specializing in vulnerability exploits and cybersecurity education. My Proof-of-Concepts (PoCs) spotlight risks in enterprise software and AI systems—strictly for research purposes only! Let's make the digital world safer together. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 My Interests
+- **Exploit Development**: Remote Code Execution (RCE), Privilege Escalation, and beyond!
+- **Cloud & Hybrid Security**: Securing AWS, Azure, and on-prem hybrids.
+- **AI/ML Vulnerabilities**: Uncovering flaws in machine learning models and inference servers.
+- **Python Automation**: Scripting tools for pentesting and vuln hunting.
+
+## 🛠️ Featured Projects
+Here are some of my standout PoCs — feel free to star or fork them!
+
+- **[CVE-2025-53786 Exploit](https://github.com/barbaraeivyu/CVE-2025-53786)**  
+  A stealthy, modular Proof-of-Concept for privilege escalation in Microsoft Exchange Server hybrid setups.
+
+- **[Triton Inference Server Exploit PoC](https://github.com/barbaraeivyu/Triton-Inference-Server-PoC)**  
+  Chained RCE exploiting shared memory flaws in NVIDIA's Triton Inference Server.  
+
+- **[CVE-2025-54253 Adobe AEM Forms RCE](https://github.com/barbaraeivyu/CVE-2025-54253-e)**  
+  Authentication bypass combined with OGNL injection for remote code execution.  
+
+**Disclaimer:** All projects are for educational and research use only. Test responsibly in controlled environments—do not use for malicious purposes! ⚠️
+
+Thanks for visiting! If you like my work, give it a ⭐ or drop a message. 😊
