@@ -17,11 +17,6 @@ Here are some of my standout PoCs — feel free to star or fork them!
 - **[CVE-2025-53786 Exploit](https://github.com/barbaraeivyu/CVE-2025-53786)**
   A stealthy, modular Proof-of-Concept for privilege escalation in Microsoft Exchange Server hybrid setups.
 
-- **[Triton Inference Server Exploit PoC](https://github.com/barbaraeivyu/Triton-Inference-Server-PoC)**
-  Chained RCE exploiting shared memory flaws in NVIDIA's Triton Inference Server.
-
-- **[CVE-2025-54253 Adobe AEM Forms RCE](https://github.com/barbaraeivyu/CVE-2025-54253-e)**
-  Authentication bypass combined with OGNL injection for remote code execution.
 
 - **[CVE-2025-25256 Exploit](https://github.com/barbaraeivyu/CVE-2025-25256)** 
   A Python-based PoC exploiting an OS command injection in FortiSIEM's phMonitor service (TCP/7900) for unauthenticated remote code execution.
